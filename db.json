@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "leila",
+      "lastName": "eskandari",
+      "email": "lili@gmail.com",
+      "dob": "2023-11-15T08:00:00.000Z",
+      "gender": "1",
+      "education": "Intermetian",
+      "company": "test",
+      "experince": 1,
+      "package": 4,
+      "id": 1
+    }
+  ]
+}
